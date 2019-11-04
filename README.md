@@ -7,3 +7,7 @@ Tracking micro growth, one day at a time!
 
 ## 10-30-2019
 * Completed Hyperskill "Boolean and Logical Operations"
+
+## 11-4-2019
+* Completed Hyperskill topics "Strings" 
+
