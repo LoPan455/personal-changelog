@@ -11,3 +11,5 @@ Tracking micro growth, one day at a time!
 ## 11-4-2019
 * Completed Hyperskill topics "Strings" 
 
+## 11-5-2019
+* Completed Hyperskill topic "The while and do-while loops"
