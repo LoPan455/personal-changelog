@@ -13,3 +13,6 @@ Tracking micro growth, one day at a time!
 
 ## 11-5-2019
 * Completed Hyperskill topic "The while and do-while loops"
+
+## 11-6-2019
+* Completed Hyperskill topic "Branching Statements"
