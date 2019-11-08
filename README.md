@@ -16,3 +16,6 @@ Tracking micro growth, one day at a time!
 
 ## 11-6-2019
 * Completed Hyperskill topic "Branching Statements"
+
+## 11-7-2019
+*  Continued work on Hyperskill Topic "Strings"
