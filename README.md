@@ -21,4 +21,4 @@ Tracking micro growth, one day at a time!
 *  Continued work on Hyperskill Topic "Strings"
 
 ## 11-10-2019
-* Watched first three sections of Pluralsight's Spring Fundamentals video course.
+* Watched "What is Spring?", "Architecutre and Project Setup" & "Spring Configuration Using Java" in Pluralsight's "Spring Framework: Spring Fundamentals" video course.
