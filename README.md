@@ -19,3 +19,6 @@ Tracking micro growth, one day at a time!
 
 ## 11-7-2019
 *  Continued work on Hyperskill Topic "Strings"
+
+## 11-10-2019
+* Watched first three sections of Pluralsight's Spring Fundamentals video course.
