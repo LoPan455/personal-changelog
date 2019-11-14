@@ -33,3 +33,7 @@ Tracking micro growth, one day at a time!
    
  ## 11-13-2019
    * Completed MOOC Part 1 Exercise 85 - Lottery Numbers
+   
+ ## 11-14-2019
+   * Began Pluralsight video course "Building Your First Spring Boot Application"
+   * Created small repo to track the project and follow along.
