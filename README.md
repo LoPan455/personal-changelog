@@ -26,3 +26,10 @@ Tracking micro growth, one day at a time!
   * "Architecutre and Project Setup"
   * "Spring Configuration Using Java" 
  in Pluralsight's "Spring Framework: Spring Fundamentals" video course.
+ 
+ ## 11-12-2019
+   * Attended Gradle online training course
+   * Comleted Hyperskill stage 2/6 - Knowledge is Key in Encyrption / Decryption
+   
+ ## 11-13-2019
+   * Completed MOOC Part 1 Exercise 85 - Lottery Numbers
