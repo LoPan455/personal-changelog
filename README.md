@@ -37,3 +37,7 @@ Tracking micro growth, one day at a time!
  ## 11-14-2019
    * Began Pluralsight video course "Building Your First Spring Boot Application"
    * Created small repo to track the project and follow along.
+   
+ ## 11-15-2019
+   * Attended Introduction to Functional Programming workshop at workplace tech lab
+   * Completed "Creating Web Apps", "Configuraing and Accessing a Data Source" sections of Pluralsights' "Building Your      First Spring Boot Application"
