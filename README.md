@@ -43,4 +43,3 @@ Tracking micro growth, one day at a time!
    * Completed "Creating Web Apps", "Configuraing and Accessing a Data Source" sections of Pluralsights' "Building Your      First Spring Boot Application"
  
 ## 11-17-2019
-     * Completed Pluralsight's "Building Your First Spring Boot Application" video course.
