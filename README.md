@@ -50,3 +50,5 @@ Tracking micro growth, one day at a time!
   * Completed "What is Spring?" in Pluralsight's "Spring: The Big Picture" video course
   * Worked through an intial setup and configuration of Simply Well Wordpress blog.
   
+## 11-19-2019
+  * Completed "Understanding Spring's Foundations: The Spring Framework" in Pluralsight
