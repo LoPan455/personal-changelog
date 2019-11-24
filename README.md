@@ -51,4 +51,7 @@ Tracking micro growth, one day at a time!
   * Worked through an intial setup and configuration of Simply Well Wordpress blog.
   
 ## 11-19-2019
-  * Completed "Understanding Spring's Foundations: The Spring Framework" in Pluralsight
+  * Completed "Understanding Spring's Foundations: The Spring Framework" in Pluralsight.
+  
+## 11-23-2019
+  * Completed Course "Building Your First Spring Boot Application (Revised) in Pluralsight.
