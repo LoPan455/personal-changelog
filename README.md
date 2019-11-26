@@ -55,3 +55,7 @@ Tracking micro growth, one day at a time!
   
 ## 11-23-2019
   * Completed Course "Building Your First Spring Boot Application (Revised) in Pluralsight.
+  
+## 11-25-2019
+  * Initial commit for Spring Boot app "Searchlight"
+  
