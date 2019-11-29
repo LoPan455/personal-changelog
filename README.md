@@ -59,3 +59,7 @@ Tracking micro growth, one day at a time!
 ## 11-25-2019
   * Initial commit for Spring Boot app "Searchlight"
   
+## 11-29-2019
+  * Completed "Bit Counting" in Java on Codewars
+  * Completed "Counting Duplicates" in Java on Codewars
+  
